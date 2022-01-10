@@ -16,8 +16,8 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html", title: Home, icon: none}
-  - {file: "README.md", title: About, icon: none}
+  - {file: "index.html", title: "Home", icon: none}
+  - {title: "Modules", file: "modules.md", icon: none}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Email Us, icon: envelope, url: "mailto:nickoal.eichmann@colorado.edu"}
