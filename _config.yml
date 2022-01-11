@@ -10,19 +10,18 @@ date_format: "%B %d, %Y"
 
 show_excerpts: false       # show article excerpts on the home page
 show_frame: true           # adds a gray frame to the site
-show_sidebar: true        # show a sidebar instead of the usual header
+show_sidebar: false        # show a sidebar instead of the usual header
 minimal: true             # use a dark header
 
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "home.md", title: "Home", icon: none}
+  - {title: "Home", file: "home.md", icon: none}
   - {title: "Course Schedule", file: "modules.md", icon: none}
   - {title: "Final Project", file: "finalproject.md", icon: none}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Email Us, icon: envelope, url: "mailto:nickoal.eichmann@colorado.edu"}
-  - {title: Github, icon: github, url: "https://github.com/nickoal/ARSC5040"}
+  - {title: Email Us, icon: envelope, url: "mailto:nickoal.eichmann@colorado.edu;jordan.wrigley@colorado.edu"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
