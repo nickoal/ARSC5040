@@ -1,6 +1,6 @@
 # Final Project
 
-> Develop an overview of a proposed or hypothetical project including: data types, sources, and collection instruments; selected analysis methods and tools; initial and exploratory findings and visualizations. In Week 5, you will receive peer feedback and initiate discussion around their projects.
+> Develop an overview of a proposed or hypothetical project including: data types, sources, and collection instruments; selected analysis methods and tools; initial and exploratory findings and visualizations. In Week 5, you will receive peer feedback and initiate discussion around our projects.
 
 - **Use what media is most comfortable for you. Thank about what output would be most useful to you in your work. Some example might be...**
   - A 5-6 slide deck is good if your are thinking of making a public proposal of your project. 
