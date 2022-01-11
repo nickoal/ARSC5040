@@ -1,6 +1,6 @@
-# Qualitative Data Analysis CLASS NUMBER
+# ARSC 5040: Qualitative Data Tools
 Spring 2022, University of Colorado Boulder
-Tuesdays, 10am-12:30pm Mountain Time meeting remotely
+Tuesdays, 10am-12:30pm Mountain Time
 
 ## Instructors
 
@@ -28,28 +28,15 @@ None other than devices that will enable you to remotely attend and participate 
 ## Communication
 COMMUNICATION: more details during our first meeting.
 
-## Modules 
+## Topics / Modules 
 - Week 1: Qualitative Types and Considerations
-What research approaches and types of data require which tools? This session will examine the planning phase of qualitative data research methods and how to develop processes which guide ethical data collection, analysis, and dissemination.
-
 - Week 2: Qualitative Data Collection
-Qualitative data collection methods and tools are numerous. Selecting ethical and effective collection sources,  instruments, and tools requires parallel critical assessment of project goals, data, and resources. This session will overview exploratory collection methods and tools including webscraper.io, APIs, and others. 
-
-- Week 3: Qualitative Data Analysis 
-Analysis is often a technical and tool heavy phase of modern qualitative data research. A variety of tools may be applicable to a given qualitative research project. This session will tour several survey-based, text mining, qualitative coding, and other tools including R and Python packages. This will also include a deeper dive into particular tools and techniques to upskill learners' practical knowledge.
- 
+- Week 3: Qualitative Data Analysis  
 - Week 4: Communicating QDA
-Being able to communicate complex qualitative concepts in data findings is a key aspect of research dissemination. This session will examine current common and popular tools for qualitative data visualization and reporting. It will also provide examples of data communication platforms (ex. story maps) and language for presentations and manuscripts. 
-
 - Week 5: Project Presentations and Peer Feedback
-Learners will present a lightning talk presentation overviewing their project including: data types, sources, and collection instruments; selected analysis methods and tools; initial and exploratory findings and visualizations. Presenters will receive peer feedback and initiate discussion around their projects. 
 
 ## Assignments
-- Week 1: For Week 2, bring: A qualitative data collection tool or methods you are interested in or might use in a project, **or** an example, reading, or tutorial of the method or tool with URL or link.
-- Week 2: For Week 3, bring: A qualitative data analysis tool or method you are interested in or might use in a project, **or** an example, reading, or tutorial of the analysis method or tool with URL or link. Resources: Sage’s Little Blue Books (https://methods.sagepub.com/Search/Results?booktypes=qrm&IncludeSegments=false&IncludeParts=false&sort=pubyear&keywords[0].Field=FullText&keywords[0].Text=&noback=true) and Sage’s QDA Methods Map (https://methods.sagepub.com/Search/Results?booktypes=qrm&IncludeSegments=false&IncludeParts=false&sort=pubyear&keywords[0].Field=FullText&keywords[0].Text=&noback=true)
-- Week 3: TBD
-- Week 4: TBD
-- Week 5: TBD, prepare for final presenation
+- See [Modules](/modules.md)
 - Final Project: Learners will propose a real or hypothetical project including: data types, sources, and collection instruments; selected analysis methods and tools; initial and exploratory findings and visualizations. 
 
 ## COVID 19
