@@ -5,12 +5,12 @@ Tuesdays, 10am-12:30pm Mountain Time
 ## Instructors
 
 ### Nickoal Eichmann-Kalwara (call me Nickoal, she/her)
-nickoal.eichmann@colorado.edu <br>
+nickoal.eichmann@colorado.edu 
 Assistant Professor, Digital Scholarship Librarian
 Director of Digital Scholarship, Center for Research Data & Digital Scholarship
 
 ### Jordan Wrigley (call me Jordan, she/her)
-jordan.wrigley@colorado.edu <br>
+jordan.wrigley@colorado.edu
 Data Librarian and Free-range Data Consultant
 Center for Research Data & Digital Scholarship
 
