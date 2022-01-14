@@ -29,11 +29,11 @@ None other than devices that will enable you to remotely attend and participate 
 COMMUNICATION: more details during our first meeting.
 
 ## Topics / Modules 
-- Week 1: Qualitative Types and Considerations
-- Week 2: Qualitative Data Collection
-- Week 3: Qualitative Data Analysis  
-- Week 4: Communicating QDA
-- Week 5: Project Presentations and Peer Feedback
+- Week 1: [Qualitative Types and Considerations](/week1.md)
+- Week 2: [Qualitative Data Collection](/week2.md)
+- Week 3: [Qualitative Data Analysis](/week3.md)  
+- Week 4: [Communicating QDA](/week4.md)
+- Week 5: [Project Presentations and Peer Feedback](/week5.md)
 
 ## Assignments
 - See [Modules](/modules.md)
