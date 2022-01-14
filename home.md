@@ -26,7 +26,7 @@ Qualitative data research and analysis includes growing technical aspects with n
 None other than devices that will enable you to remotely attend and participate in class. Please contact us if you’re concerned about your tech equipment. In following the data practices of of open scholarship and science, all materials will be available for free online or via the University Libraries, etc. They all will be hyperlinked in this syllabus. For some materials, you will need to have your proxy settings setup for off-campus access. You are not required to purchase anything from the CU Bookstore.
 
 ## Communication
-COMMUNICATION: more details during our first meeting.
+COMMUNICATION: We're using Slack: [arsc5040quali-use2223.slack.com](arsc5040quali-use2223.slack.com)
 
 ## Topics / Modules 
 - Week 1: [Qualitative Types and Considerations](/week1.md)
