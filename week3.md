@@ -11,15 +11,15 @@
   - Open science and data
   - Transparancy and reproducibility
   - Matching tools to data and research goals
-- Demos
+- Demos: NVivo vs Dedoose; Taguette; Boris; if time allows basic NLP with Voyant
 - Clinic Time
 
 ## Tools:
 - [Dedoose](https://www.dedoose.com/) *$, demo, NK
 - [BORIS](http://www.boris.unito.it/) *demo, JW
-- [Taguette](https://www.taguette.org/) 
+- [Taguette](https://www.taguette.org/) *demo, JW
 - [QualCoder](https://github.com/ccbogel/QualCoder)
-- [NVivo](https://www.qsrinternational.com/nvivo-qualitative-data-analysis-software/home) *$$$
+- [NVivo](https://www.qsrinternational.com/nvivo-qualitative-data-analysis-software/home) *$, demo, NK
 - [QDA Miner Lite](https://provalisresearch.com/products/qualitative-data-analysis-software/freeware/)
 - [Qcoder for R](https://docs.ropensci.org/qcoder/)
 - [Qualtrics](https://www.qualtrics.com/)
