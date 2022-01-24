@@ -29,9 +29,15 @@
 - [Apify](https://apify.com/)
 - [oTranscribe](https://otranscribe.com/)
 
+### Resources
+- [Sage’s Little Blue Books](https://methods.sagepub.com/Search/Results?booktypes=qrm&IncludeSegments=false&IncludeParts=false&sort=pubyear&keywords[0].Field=FullText&keywords[0].Text=&noback=true) and [Sage’s QDA Methods Map](https://methods.sagepub.com/methods-map/qualitative-data-analysis)
+- [Constructing the Klamath: Nature, Culture, and the Management of a Western River by Z. Albertson, 2019](https://www-tandfonline-com.colorado.idm.oclc.org/doi/full/10.1080/08941920.2019.1590670)
+- [Using Social Media Research Data Responsibly: Considerations for Librarians and Researchers by A. Ranganath + J. Wrigley, 2021](https://scholar.colorado.edu/concern/presentations/4m90dw75t)
+- [Research design : qualitative, quantitative, and mixed methods approaches by J. Creswell, 2018](https://www.worldcat.org/title/research-design-qualitative-quantitative-and-mixed-methods-approaches/oclc/1200670411)
+
 ## For Week 3, bring:
 - Qualitative data analysis tool or method you are interested in or might use in a project, 
 **OR**
 - An example, reading, or tutorial of the analysis method or tool with URL or link.
 
-<br>Resources: [Sage’s Little Blue Books](https://methods.sagepub.com/Search/Results?booktypes=qrm&IncludeSegments=false&IncludeParts=false&sort=pubyear&keywords[0].Field=FullText&keywords[0].Text=&noback=true) and [Sage’s QDA Methods Map](https://methods.sagepub.com/methods-map/qualitative-data-analysis)
+<br>
